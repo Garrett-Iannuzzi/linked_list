@@ -73,3 +73,7 @@ h1 {
 	background-color:#cfd8dc;
 	height: 100vh;
 }
+
+.right__section--article {
+	border: 2px red;
+}
