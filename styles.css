@@ -75,5 +75,39 @@ h1 {
 }
 
 .right__section--article {
-	border: 2px red;
+	border: solid 1px #455a64;
+	color: #FFC107;
+	margin: 20px;
+}
+
+.right__article--title {
+	border-bottom: solid 1px #455a64;
+  color: #455a64;
+	margin: 10px;
+  padding-bottom: 5px;
+}
+
+.right__article--url {
+	color: #455A64;
+	font-weight: 400;
+	margin-bottom: 0px;
+	padding-left: 10px;
+}
+
+.right__article--buttons {
+	border-top: solid 1px #455a64;
+	display: flex;
+  justify-content: space-between;
+	margin: 10px;
+	padding-top: 5px;
+}
+
+.right__article--read,
+.right__article--delete {
+	background-color: #cfd8dc;
+	border: 0px;
+	color: #455A64;
+	font-size: 1.0em;
+	padding-top: 5px;
+	text-decoration: underline;
 }
