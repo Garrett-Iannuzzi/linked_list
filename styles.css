@@ -67,6 +67,7 @@ h1 {
 	height: 45px;
 }
 
+
 /**************Right Container************/
 
 .right__container {
@@ -76,7 +77,6 @@ h1 {
 
 .right__section--article {
 	border: solid 1px #455a64;
-	color: #FFC107;
 	margin: 20px;
 }
 
